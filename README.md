@@ -1,2 +1,4 @@
 # hello-world
-hello world project
+hello everyone!
+in this project we will be analysing why italy did not qualify for the wm
+regards
